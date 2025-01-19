@@ -1,5 +1,8 @@
 fastapi
 uvicorn
-requests
 stripe
 python-dotenv
+requests
+psycopg2-binary
+SQLAlchemy
+alembic
